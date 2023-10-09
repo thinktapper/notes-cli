@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "id": 1696883173939,
+      "tags": [
+        "fun",
+        "serious"
+      ],
+      "content": "eat more food"
+    },
+    {
+      "id": 1696883178665,
+      "tags": [
+        "work",
+        "serious"
+      ],
+      "content": "clean my room"
+    },
+    {
+      "id": 1696883195438,
+      "tags": [],
+      "content": "walk my dog"
+    }
+  ]
+}
